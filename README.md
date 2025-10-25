@@ -8,5 +8,5 @@ Watch tutorial video.
 
 - sdsadasd
 - sdsad
-- [] test
+- [x] test
 - [ ] Test 2
